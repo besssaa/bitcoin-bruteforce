@@ -1,3 +1,6 @@
+$ pip install -r requirements.txt
+$ python3 bruteforce.py
+
 from bit import Key
 from multiprocessing import cpu_count, Process
 from requests import get
